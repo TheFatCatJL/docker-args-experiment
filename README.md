@@ -1,5 +1,5 @@
 # DOCKERFILE ARG Experiment
-This repository is ucreated to quickly explore the peculiar rules of docker args, especially in the sequence of their appearance in the file.
+This repository is created to quickly explore the peculiar rules of docker args, especially in the sequence of their appearance in the file.
 
 ## Rule 1 - ARG declared before FROM Statements
 These args are meant to used by FROM statements and:
